@@ -1,0 +1,35 @@
+# UCF-Crime videos
+*.mp4
+*.avi
+*.mkv
+*.mov
+
+# Extracted feature files
+*.npy
+*.npz
+
+# PyTorch models/checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Dataset folders
+data/
+datasets/
+UCF_Crime/
+UCF-Crime/
+downloads/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter/Colab checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.log
+
+# Google Colab
+/content/
